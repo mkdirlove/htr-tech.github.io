@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Learn About ME
+subtitle: HTR-TECH 
 ---
 
  WORK IN PROGGRESS
