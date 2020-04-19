@@ -15,8 +15,8 @@ description: Personal Blog of Tahmid Rayat
 # List of links in the navigation bar
 navbar-links:
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Tutorials: "tutorials"
+    - Codes: "codes"
   About Me: "about-me"
   My Home: "https://github.com/htr-tech"
 
