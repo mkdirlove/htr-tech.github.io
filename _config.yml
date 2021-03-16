@@ -16,7 +16,7 @@ description: Personal Blog of Jayson San Buenaventura
 navbar-links:
   Resources:
     - Tutorials: "tutorials"
-    - Codes: "projects"
+    - Projects: "projects"
   About Me: "about-me"
   My Home: "https://github.com/mkdirlove"
 
