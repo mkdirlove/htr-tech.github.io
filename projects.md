@@ -1,6 +1,7 @@
 ---
-layout: page
-title: First post!
+layout: post
+title: Projects
+subtitle: My Coding Projects
 image: /img/author.png
 ---
 
