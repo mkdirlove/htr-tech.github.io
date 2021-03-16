@@ -1,19 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: HTR-TECH 
+subtitle: MKDIRLOVE
 ---
 
 Hello There !
-My Name is Tahmid Rayat.
+My Name is Jayson Cabrillas San Buenaventura.
 
-I am from Bangladesh.
+I am from the Philippines.
 
-I am a Student.
+I am a 2nd year BSIT Student.
 
 
 
 #### Find Me 
 
-[![Author](https://img.shields.io/badge/Author-htr--tech-green.svg?style=for-the-badge&logo=facebook)](https://www.facebook.com/tahmid.rayat.official)
-[![Author](https://img.shields.io/badge/Author-htr--tech-green.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahmid.rayat)
+[![Author](https://img.shields.io/badge/Author-mkdirlove-green.svg?style=for-the-badge&logo=facebook)](https://www.facebook.com/mkdirlove.git)
+[![Author](https://img.shields.io/badge/Author-mkdirlove-green.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/sanbuenaventurajayson28)
