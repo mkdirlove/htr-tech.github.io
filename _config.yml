@@ -14,11 +14,13 @@ description: Personal Blog of Jayson San Buenaventura
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "https://mkdirlove.github.io/"
+  About Me: "about-me"
+  Github: "https://github.com/mkdirlove"
   Resources:
     - Tutorials: "tutorials"
     - Projects: "projects"
-  About Me: "about-me"
-  My Home: "https://github.com/mkdirlove"
+  
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
