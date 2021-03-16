@@ -1,11 +1,5 @@
-#---
-#layout: post
-#title: Projects
-#subtitle: My Coding Projects
-#---
-
 ---
-layout: post
+layout: page
 title: First post!
 image: /img/author.png
 ---
