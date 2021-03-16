@@ -23,14 +23,14 @@ Python, C++, Shell Script, HTML, CSS.
 
 ## Education
 
-`2007-2012`
+`2007-2013`
 __Bucal Elementary School, Brgy. Bucal, Calamba City.__
 
-`2012-2016`
+`2013-2017`
 __Eduardo Barretto Sr. National High School, Brgy. Pansol, Calamba City__
 
 
-`2016-2019`
+`2017-2019`
 __Saints John and Paul Educational Foundation Inc., Brgy. Halang, Calamba City__
 
 
