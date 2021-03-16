@@ -4,28 +4,28 @@ title: Projects
 subtitle: My Coding Projects
 ---
 
-**FBTOOL - A facebook hacking tool for noobs like me.**
+# FBTOOL - A facebook hacking tool for noobs like me.
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/mkdirlove/mkdirlove.github.io/master/projects-img/fbtool.png" width="90%">
 <br>
 <br>
 <br>
-**DEVICE-INFO - Device information fetcher over Local Area network (LAN).**
+# DEVICE-INFO - Device information fetcher over Local Area network (LAN).
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/mkdirlove/mkdirlove.github.io/master/projects-img/device-info.png" width="90%">
 <br>
 <br>
 <br>
-**SSLSTRIP-NG - A simpe automated man in the middle attack tool.**
+# SSLSTRIP-NG - A simpe automated man in the middle attack tool.
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/mkdirlove/mkdirlove.github.io/master/projects-img/sslstrip-ng.png" width="90%">
 <br>
 <br>
 <br>
-**WEPWN - A simple attack tool for WEP encrypted networks.**
+# WEPWN - A simple attack tool for WEP encrypted networks.
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/mkdirlove/mkdirlove.github.io/master/projects-img/wepwn.png" width="90%">
@@ -39,7 +39,7 @@ subtitle: My Coding Projects
 <br>
 <br>
 <br>
-**WI-TOOLKIT - A WiFi hacking tool for Termux users.**
+WI-TOOLKIT - A WiFi hacking tool for Termux users.
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/mkdirlove/mkdirlove.github.io/master/projects-img/wi-toolkit.png" width="90%">
