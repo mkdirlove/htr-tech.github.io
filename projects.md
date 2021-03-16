@@ -4,7 +4,7 @@ title: Projects
 subtitle: My Coding Projects
 ---
 {: .box-note}
-![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/FBTOOL/blob/master/Screenshot_2020-04-27_17-37-57.png)
+
 **FBTOOL - A facebook hacking tool for noobs like me.**
 {% highlight javascript linenos %}
 $ git clone https://github.com/mkdirlove/FBTOOL
@@ -14,8 +14,8 @@ $ python2 fbtool.py
 {% endhighlight %}
 {: .box-note}
 
-
 {: .box-note}
+
 **DEVICE-INFO - Device information fetcher over Local Area network (LAN).**
 {% highlight javascript linenos %}
 $ git clone https://github.com/mkdirlove/DEVICE-INFO
@@ -28,6 +28,7 @@ $ bash device-info.sh
 
 
 {: .box-note}
+
 **SSLSTRIP-NG - A simpe automated man in the middle attack tool.**
 {% highlight javascript linenos %}
 $ git clone https://github.com/mkdirlove/SSLSTRIP-NG
@@ -39,6 +40,7 @@ $ bash sslstrip-ng.sh
 
 
 {: .box-note}
+
 **WEPWN - A simple attack tool for WEP encrypted networks.**
 {% highlight javascript linenos %}
 $ git clone https://github.com/mkdirlove/WEPWN
@@ -49,6 +51,7 @@ $ sudo wepwn.sh
 {: .box-note}
 
 {: .box-note}
+
 **SPAM-EMAIL - A tool for spamming Gmail, Yahoo, Hotmail/Outlook.**
 {% highlight javascript linenos %}
 $ git clone https://github.com/mkdirlove/SPAM-EMAIL
@@ -59,6 +62,7 @@ $ python2 spam-email.py
 {: .box-note}
 
 {: .box-note}
+
 **WI-TOOLKIT - A WiFi hacking tool for Termux users.**
 {% highlight javascript linenos %}
 $ git clone https://github.com/mkdirlove/WI-TOOLKIT
