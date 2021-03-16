@@ -1,60 +1,91 @@
-<!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Richard Hendricks
+---
+layout: cv
+title: Isaac Newtons's CV
+---
+# Isaac Newton
+Physicist, Mathematician, Cambridge professor.
 
-<!-- The unordered list immediately after the h1 will be formatted on a single
-line. It is intended to be used for contact details -->
-- <richard.hendriks@mail.com>
-- (912) 555-4321
-- [richardhendricks.example.com](http://richardhendricks.example.com)
-- San Francisco, CA
+<div id="webaddress">
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+</div>
 
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
 
-## Experience
+## Currently
 
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
-### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
+Standing on the shoulders of giants
 
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
+### Specialized in
 
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
+Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
-### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
 
-Global movement of free coding clubs for young people.
+### Research interests
 
- - Awarded 'Teacher of the Month'
+Cooling, power series, optics, alchemy, planetary motions, apples.
 
-## Projects
-
-### <span>Miss Direction</span> <span>Aug 2016</span>
-
-A mapping engine that misguides you:
-
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
 
 ## Education
 
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
+`1654-1660`
+__The King's School, Grantham.__
 
-  - GPA 4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
+`June 1661 - now`
+__Trinity College, Cambridge__
 
-## Skills
+- Sizar
 
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+`1667 - death`
+__Trinity College, Cambridge__
+
+- Fellow
+
+
+
+## Awards
+
+`2012`
+President, *Royal Society*, London, UK
+
+Associate, *French Academy of Science*, Paris, France
+
+
+
+## Publications
+
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
+### Journals
+
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+
+`1669`
+Lectiones opticæ.
+
+etc. etc. etc.
+
+### Patents
+
+`2012`
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+
+
+## Occupation
+
+`1600`
+__Royal Mint__, London
+
+- Warden
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
+
+
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+
+
