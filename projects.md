@@ -4,25 +4,30 @@ title: Projects
 subtitle: My Coding Projects
 ---
 
-
-<img src="https://cloud.githubusercontent.com/assets/4307137/10105283/251b6868-63ae-11e5-9918-b789d9d682ec.png" width="90%">
+**FBTOOL - A facebook hacking tool for noobs like me.**
+<img src="https://github.com/mkdirlove/FBTOOL/blob/master/Screenshot_2020-04-27_17-37-57.png" width="90%">
 <br>
 <br>
 <br>
-<img src="https://cloud.githubusercontent.com/assets/4307137/10105290/2a183f3a-63ae-11e5-9380-50d9f6d8afd6.png" width="90%">
+**DEVICE-INFO - Device information fetcher over Local Area network (LAN).**
+<img src="https://github.com/mkdirlove/DEVICE-INFO/blob/master/1.png" width="90%">
 <br>
 <br>
 <br>
-<img src="https://cloud.githubusercontent.com/assets/4307137/10105284/26aa7ad4-63ae-11e5-88b7-bc523a095c9f.png" width="90%">
+**SSLSTRIP-NG - A simpe automated man in the middle attack tool.**
+<img src="https://github.com/mkdirlove/SSLSTRIP-NG/blob/master/01.png" width="90%">
 <br>
 <br>
 <br>
-<img src="https://cloud.githubusercontent.com/assets/4307137/10105288/28698fae-63ae-11e5-8ba7-a62360a8e8a7.png" width="90%">
+**WEPWN - A simple attack tool for WEP encrypted networks.**
+<img src="https://github.com/mkdirlove/WEPWN/blob/main/wepwn.png" width="90%">
 <br>
 <br>
 <br>
-<img src="https://cloud.githubusercontent.com/assets/4307137/10105283/251b6868-63ae-11e5-9918-b789d9d682ec.png" width="90%"> 
+**SPAM-EMAIL - A tool for spamming Gmail, Yahoo, Hotmail/Outlook.**
+<img src="https://github.com/mkdirlove/SPAM-EMAIL/blob/master/1.png" width="90%"> 
 <br>
 <br>
 <br>
-<img src="https://cloud.githubusercontent.com/assets/4307137/10105290/2a183f3a-63ae-11e5-9380-50d9f6d8afd6.png" width="90%">
+**WI-TOOLKIT - A WiFi hacking tool for Termux users.**
+<img src="https://github.com/mkdirlove/WI-TOOLKIT/blob/master/1.png" width="90%">
