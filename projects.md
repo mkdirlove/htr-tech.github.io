@@ -6,7 +6,11 @@ subtitle: My Coding Projects
 {: .box-note}
 **FBTOOL**
 {% highlight javascript linenos %}
-https://github.com/FBTOOL
+$ git clone https://github.com/mkdirlove/FBTOOL
+$ cd FBTOOL
+$ sudo python2 fbtool.py
+or
+$ python2 fbtool.py
 {% endhighlight %}
 {: .box-note}
 
