@@ -35,7 +35,7 @@ __Saints John and Paul Educational Foundation Inc., Brgy. Halang, Calamba City__
 
 
 `2019-present`
-__Laguna State Polytechnic University Los Baños Campus, Brgy. Halang, Calamba City__
+__LSPU Los Baños Campus, Brgy. Halang, Calamba City__
 
 
 <!-- ### Footer
