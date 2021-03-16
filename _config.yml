@@ -1,8 +1,8 @@
 # Name of website
-title: HTR-TECH
+title: MKDIRLOVE
 
 # Short description of your site
-description: Personal Blog of Tahmid Rayat
+description: Personal Blog of Jayson San Buenaventura
 
 # url is the the website domain URL without a trailing slash
 #url: "https://example.com"
@@ -18,7 +18,7 @@ navbar-links:
     - Tutorials: "tutorials"
     - Codes: "codes"
   About Me: "about-me"
-  My Home: "https://github.com/htr-tech"
+  My Home: "https://github.com/mkdirlove"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -55,7 +55,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: TAHMID RAYAT
+  name: JAYSON SAN BUENAVENTURA
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -63,11 +63,11 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  email: "someone@example.com"
-  facebook: tahmid.rayat.official
-  instagram: tahmid.rayat
-  github: htr-tech
+  facebook: mkdirlove.git
+  instagram: sanbuenaventurajayson28
+  twitter: JaysonSanBuena1
+  github: mkdirlove
   rss: true
-# twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -87,11 +87,11 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "htr-tech.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "mkdirlove.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # To use Staticman comments, fill in repository, branch, and endpoint
 staticman:
-  repository : "htr-tech/htr-tech.github.io"
+  repository : "mkdirlove/mkdirlove.github.io"
   branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
   reCaptcha:
