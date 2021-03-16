@@ -27,7 +27,7 @@ $ bash device-info.sh
 
 
 {: .box-note}
-**SSLSTRIP-NG - A simpe automated man in the middle attack tool powered by (nmap, sslstrip, arpspoof, urlsnarf, & driftnet).**
+**SSLSTRIP-NG - A simpe automated man in the middle attack tool.**
 {% highlight javascript linenos %}
 $ git clone https://github.com/mkdirlove/SSLSTRIP-NG
 $ cd SSLSTRIP-NG
