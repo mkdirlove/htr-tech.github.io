@@ -1,8 +1,8 @@
----
-layout: post
-title: Projects
-subtitle: My Coding Projects
----
+#---
+#layout: post
+#title: Projects
+#subtitle: My Coding Projects
+#---
 
 ---
 layout: post
