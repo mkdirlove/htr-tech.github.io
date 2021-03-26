@@ -54,8 +54,8 @@ $ sudo wepwn.sh
 {% highlight javascript linenos %}
 $ git clone https://github.com/mkdirlove/SPAM-EMAIL
 $ cd SPAM-EMAIL
-$ python spam-email.py
-$ python2 spam-email.py
+$ python3 spam-email-v1.py
+$ python3 spam-email-v2.py
 {% endhighlight %}
 {: .box-note}
 
